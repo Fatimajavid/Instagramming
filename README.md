@@ -34,10 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+<iframe src="https://giphy.com/embed/z1EFzvP869jh3ujSfn" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/z1EFzvP869jh3ujSfn">via GIPHY</a></p>
 
 ## Open-source libraries used
 
